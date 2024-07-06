@@ -4,7 +4,7 @@ timelines:
   - calamity timeline
   - moose background
   - brett background
-  - schwartz timeline
+  - alexander timeline
   - ty background
 fc-date: 2017-07-02
 fc-category: Calamity

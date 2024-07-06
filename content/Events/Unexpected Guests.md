@@ -7,7 +7,7 @@ timelines:
   - calamity timeline
   - brett background
   - moose background
-  - schwartz timeline
+  - alexander timeline
   - ty background
 fc-category: Calamity
 ---

@@ -5,7 +5,7 @@ timelines:
   - ty background
   - brett background
   - moose background
-  - schwartz timeline
+  - alexander timeline
 fc-calendar: Gregorian Calendar
 fc-date: 2017-07-01
 fc-category: Calamity
