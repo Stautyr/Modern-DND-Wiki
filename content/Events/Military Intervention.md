@@ -12,3 +12,7 @@ aat-event-body: "*We're from the government. We're here to help*"
 fc-category: Calamity
 ---
 #calamity 
+
+WIP. 
+
+Lead to [[Patrols]]

@@ -2,12 +2,12 @@
 	"nodes":[
 		{"id":"6e26cf262f585e93","type":"file","file":"quartz/content/Events/Unexpected Guests.md","x":40,"y":-1000,"width":400,"height":400},
 		{"id":"f8e5199e13ab65d0","type":"file","file":"quartz/content/Events/Metamorphosis.md","x":40,"y":-60,"width":400,"height":400},
-		{"id":"2e3d9b5c7bb4dec5","type":"file","file":"quartz/content/Events/Military Intervention.md","x":740,"y":-528,"width":400,"height":400},
 		{"id":"229e6dd232851b44","type":"file","file":"quartz/content/Events/The night the world changed.md","x":-840,"y":-515,"width":360,"height":380},
 		{"id":"b05bad1eac0800f7","type":"file","file":"quartz/content/Events/Patrols.md","x":1480,"y":-525,"width":400,"height":400},
 		{"id":"72d7b0b90608c2eb","type":"file","file":"quartz/content/Events/The Crash.md","x":-860,"y":400,"width":400,"height":420},
 		{"id":"f7b01bb03a69e817","type":"file","file":"quartz/content/Events/Recovery.md","x":40,"y":410,"width":400,"height":400},
-		{"id":"e49d779283bb093f","type":"file","file":"quartz/content/Events/Mysterious Creature Sightings.md","x":40,"y":-515,"width":400,"height":397}
+		{"id":"e49d779283bb093f","type":"file","file":"quartz/content/Events/Mysterious Creature Sightings.md","x":40,"y":-532,"width":400,"height":397},
+		{"id":"2e3d9b5c7bb4dec5","type":"file","file":"quartz/content/Events/Military Intervention.md","x":800,"y":-525,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"849c87a1f3567484","fromNode":"72d7b0b90608c2eb","fromSide":"right","toNode":"f7b01bb03a69e817","toSide":"left","color":"1"},
